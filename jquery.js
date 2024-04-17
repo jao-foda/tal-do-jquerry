@@ -23,3 +23,7 @@ botao.addEventListener("click", e =>{
     
 window.alert('Oii')
 window.prompt('Qual e seu nome?')
+
+
+
+                       
