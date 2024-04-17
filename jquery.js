@@ -21,11 +21,6 @@ botao.addEventListener("click", e =>{
         botao.innerHTML= "oiii mae Boa noite <3";
         estaQuebrado=true;}
     
-    
-    })
-    
-
-
 window.alert('Oii')
 window.prompt('Qual e seu nome?')
 
